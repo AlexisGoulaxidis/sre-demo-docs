@@ -1,4 +1,4 @@
-# SRE Docs Demo
+# SRE Docs Demo PRACTICE WORK
 
 Это учебный портал документации.
 
